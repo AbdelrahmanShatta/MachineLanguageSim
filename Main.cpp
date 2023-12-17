@@ -1,6 +1,6 @@
 
 // Last Modification Date:	15/11/2023
-// Authordelrahman ashraf 
+// Author abelrahman ashraf 
 // Purpose:  VOLE Machine language simulator
 #include <bits/stdc++.h>
 #include <fstream>
